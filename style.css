@@ -96,3 +96,23 @@ header {
     margin: 0 auto;
     padding: 0 20px;
 }
+
+.site-footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px 0;
+    border-top: 1px solid #000;
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    color: #555;
+}
+
+.site-footer a {
+    color: #555;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
