@@ -5,23 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Global News Portal</title>
     <style>
-        body { font-family: 'Helvetica Neue', Arial, sans-serif; margin: 0; background-color: #f6f6f6; color: #111; line-height: 1.4; }
-        header { background: #000; color: #fff; padding: 25px 0; text-align: center; }
-        header h1 { margin: 0; font-size: 2rem; letter-spacing: -1px; }
-        nav { background: #eee; padding: 12px; text-align: center; border-bottom: 1px solid #ddd; }
-        nav a { color: #333; text-decoration: none; margin: 0 15px; font-weight: 600; font-size: 0.9rem; }
-        nav a:hover { color: #000; }
-        .container { max-width: 960px; margin: 20px auto; padding: 0 20px; }
-        article { background: #fff; padding: 20px; border-bottom: 1px solid #e0e0e0; }
-        article h2 { margin: 0 0 10px 0; font-size: 1.6rem; color: #111; }
-        article p { color: #444; font-size: 1rem; margin: 0; }
-        footer { text-align: center; padding: 40px; font-size: 0.8rem; color: #666; }
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; margin: 0; background: #f9f9f9; color: #111; }
+        header { background: #000; color: #fff; padding: 30px 0; text-align: center; }
+        header h1 { margin: 0; font-size: 2.5rem; letter-spacing: -2px; text-transform: uppercase; }
+        
+        nav { background: #fff; padding: 15px; text-align: center; border-bottom: 1px solid #ddd; }
+        nav a { color: #333; text-decoration: none; margin: 0 15px; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; }
+
+        .wrapper { display: grid; grid-template-columns: 2fr 1fr; max-width: 1100px; margin: 30px auto; gap: 40px; padding: 0 20px; }
+        
+        article { background: #fff; padding: 20px; border-bottom: 1px solid #eee; margin-bottom: 20px; }
+        h2 { margin: 0 0 10px 0; font-size: 1.8rem; }
+        
+        .sidebar h3 { border-bottom: 2px solid #000; padding-bottom: 5px; text-transform: uppercase; font-size: 0.9rem; }
+        .sidebar ul { list-style: none; padding: 0; }
+        .sidebar li { padding: 10px 0; border-bottom: 1px solid #eee; font-weight: bold; }
+        
+        footer { text-align: center; padding: 40px; color: #777; font-size: 0.8rem; }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>GLOBAL NEWS PORTAL</h1>
+        <h1>Global News Portal</h1>
     </header>
 
     <nav>
@@ -31,16 +37,28 @@
         <a href="contact.html">Contact Us</a>
     </nav>
 
-    <div class="container">
-        <article>
-            <h2>Breaking: The Future of Digital Media</h2>
-            <p>Welcome to our news portal. We provide the latest updates from around the globe, ensuring high-quality content and reliable information for all our readers.</p>
-        </article>
-        
-        <article>
-            <h2>Technology Trends in 2026</h2>
-            <p>Artificial Intelligence is changing the way we consume news. Explore how we are adapting to the new era of information accessibility.</p>
-        </article>
+    <div class="wrapper">
+        <main>
+            <article>
+                <h2>Breaking: New Trends in Technology</h2>
+                <p>Welcome to our site. Here we cover the most important stories from around the world.</p>
+            </article>
+            <article>
+                <h2>Sports Highlights of the Weekend</h2>
+                <p>An amazing performance in the national league has captured the attention of fans everywhere.</p>
+            </article>
+        </main>
+
+        <aside class="sidebar">
+            <h3>Categories</h3>
+            <ul>
+                <li>World News</li>
+                <li>Sports</li>
+                <li>Food & Dining</li>
+                <li>Technology</li>
+                <li>Politics</li>
+            </ul>
+        </aside>
     </div>
 
     <footer>
