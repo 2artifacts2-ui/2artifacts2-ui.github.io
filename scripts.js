@@ -10,12 +10,22 @@ function updateSidebar() {
     if (path.includes('tech.html')) {
         title.innerText = "Tech Trends";
         list.innerHTML = '<li><a href="#">AI Innovations</a></li><li><a href="#">New Gadgets</a></li><li><a href="#">Robotics</a></li>';
-    } else if (path.includes('politics.html')) {
+    } 
+    else if (path.includes('politics.html')) {
         title.innerText = "Political Agenda";
         list.innerHTML = '<li><a href="#">Election Updates</a></li><li><a href="#">New Laws</a></li><li><a href="#">Diplomacy</a></li>';
-    } else {
+    } 
+    else if (path.includes('sports.html')) {
+        title.innerText = "Sports Highlights";
+        list.innerHTML = '<li><a href="#">Tournament Results</a></li><li><a href="#">Team Rankings</a></li><li><a href="#">Upcoming Matches</a></li>';
+    }
+    else if (path.includes('business.html')) {
+        title.innerText = "Market Insights";
+        list.innerHTML = '<li><a href="#">Stock Updates</a></li><li><a href="#">Finance Tips</a></li><li><a href="#">Global Trade</a></li>';
+    }
+    else {
         title.innerText = "Latest News";
-        list.innerHTML = '<li><a href="world.html">World Events</a></li><li><a href="business.html">Business Growth</a></li>';
+        list.innerHTML = '<li><a href="index.html">Home</a></li><li><a href="about.html">About Us</a></li>';
     }
 }
 
