@@ -87,3 +87,12 @@ header {
     font-size: 0.9rem;
     color: #555;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 50px;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
