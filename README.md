@@ -1,1 +1,2 @@
-# My Website
+# Project
+This is a website project.
