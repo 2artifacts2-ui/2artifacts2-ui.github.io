@@ -139,3 +139,15 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+header {
+    text-align: center;
+}
+
+.header-branding {
+    margin: 20px 0;
+}
+
+.top-nav, .main-menu, .breadcrumbs {
+    margin: 10px 0;
+}
