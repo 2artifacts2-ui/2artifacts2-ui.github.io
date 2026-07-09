@@ -133,3 +133,16 @@ footer a {
     margin: 20px 0;
     border-radius: 4px;
 }
+
+.news-image {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    display: block;
+    margin: 20px 0;
+    border-radius: 4px;
+    background-color: #eee;
+}
+
+.news-image:not([src]) {
+    display: none;
+}
