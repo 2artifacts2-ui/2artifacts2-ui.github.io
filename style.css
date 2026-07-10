@@ -142,3 +142,14 @@ footer a {
 .news-image:not([src]) {
     display: none;
 }
+
+article {
+    display: block;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc; /* ТА САМАЯ РАЗДЕЛИТЕЛЬНАЯ ЧЕРТА */
+}
+
+article:last-child {
+    border-bottom: none;
+}
