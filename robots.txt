@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://the-global-gazette.pages.dev/sitemap.xml
