@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>THE GLOBAL GAZETTE</title>
+    <link>https://the-global-gazette.pages.dev/</link>
+    <description>Your Daily World Insight</description>
+    
+    <item>
+        <title>World News</title>
+        <link>https://the-global-gazette.pages.dev/world.html</link>
+        <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Politics</title>
+        <link>https://the-global-gazette.pages.dev/politics.html</link>
+        <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Business</title>
+        <link>https://the-global-gazette.pages.dev/business.html</link>
+        <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Tech</title>
+        <link>https://the-global-gazette.pages.dev/tech.html</link>
+        <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Science</title>
+        <link>https://the-global-gazette.pages.dev/science.html</link>
+        <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Sports</title>
+        <link>https://the-global-gazette.pages.dev/sports.html</link>
+        <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
