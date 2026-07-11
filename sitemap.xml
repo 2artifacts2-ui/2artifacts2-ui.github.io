@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://the-global-gazette.pages.dev/index.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://the-global-gazette.pages.dev/world.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://the-global-gazette.pages.dev/politics.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://the-global-gazette.pages.dev/business.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://the-global-gazette.pages.dev/tech.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://the-global-gazette.pages.dev/science.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://the-global-gazette.pages.dev/sports.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://the-global-gazette.pages.dev/privacy-policy.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://the-global-gazette.pages.dev/terms-of-service.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://the-global-gazette.pages.dev/contact.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
+<url>
+<loc>https://the-global-gazette.pages.dev/index.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://the-global-gazette.pages.dev/world.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://the-global-gazette.pages.dev/politics.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://the-global-gazette.pages.dev/business.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://the-global-gazette.pages.dev/tech.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://the-global-gazette.pages.dev/science.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://the-global-gazette.pages.dev/sports.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://the-global-gazette.pages.dev/privacy-policy.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://the-global-gazette.pages.dev/terms-of-service.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://the-global-gazette.pages.dev/contact.html</loc>
+<lastmod>2026-07-11</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
 </urlset>
