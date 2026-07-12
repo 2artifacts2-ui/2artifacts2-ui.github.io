@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | THE GLOBAL GAZETTE</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <nav class="main-menu">
+                <a href="/">Home</a>
+                <a href="/world.html">World</a>
+                <a href="/tech.html">Tech</a>
+                <a href="/sports.html">Sports</a>
+            </nav>
+        </header>
+
+        <main class="grid-container">
+            <section class="main-content">
+                <article class="lead-story">
+                    {{ content }}
+                </article>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 The Global Gazette.</p>
+        </footer>
+    </div>
+</body>
+</html>
